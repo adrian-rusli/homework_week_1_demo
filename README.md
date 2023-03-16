@@ -1,11 +1,17 @@
 # homework_week_1_demo
 
-## Who are you? What's your background?
-Tony Stark
-Engineering
 
-## What are your career goals?
-Billioner, philantropist
+## Technologies
+* pandas
+* numpy
 
-## Why did you choose FinTech as a career path?
-Just for fun
+## Background
+This repository contains codes that can help beginners to start their journey in python for data.
+
+## Level 1 (Beginners)
+---
+### Step 1
+install anaconda package using the link: [click here](https://www.anaconda.com/products/distribution) 
+### Step 2
+find a good teacher!
+
